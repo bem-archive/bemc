@@ -40,6 +40,7 @@
   "description": "BEM templates compiler",
   "main": "index.js",
   "directories": {
+    "bin": "bin",
     "test": "test"
   },
   "keywords": [
